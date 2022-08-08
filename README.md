@@ -9,4 +9,4 @@
 
 [3. Introduction to Data Types](https://mega.nz/folder/jckFjTxB#l2uzWksi-TjyO63eL2avvw)
 
-[](https://github.com/pawan1198/Python-for-Beginners/blob/master/python-cheat-sheet.pdf)
+[fgjk](https://github.com/pawan1198/Python-for-Beginners/blob/master/python-cheat-sheet.pdf)

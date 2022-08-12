@@ -16,3 +16,5 @@
 [6. Print formatting and Precision](https://mega.nz/folder/WZ1hzKiB#dBwaseD5DlEabk_FqRzxgA)
 
 [7. Introduction to Lists](https://mega.nz/folder/OYUTzCJY#Uh2iC1RL2V5EtFiJSi6raQ)
+
+[8. Introduction to Tuples](https://mega.nz/folder/uIVC3J7C#zzJPO7QuS8djmvbll6R9gg)

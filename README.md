@@ -14,3 +14,5 @@
 [5. Introduction to Strings](https://mega.nz/folder/bEFVTKIb#t5t3_ycdiLelBVihJzDWzw)
 
 [6. Print formatting and Precision](https://mega.nz/folder/WZ1hzKiB#dBwaseD5DlEabk_FqRzxgA)
+
+[7. Introduction to Lists](https://mega.nz/folder/OYUTzCJY#Uh2iC1RL2V5EtFiJSi6raQ)

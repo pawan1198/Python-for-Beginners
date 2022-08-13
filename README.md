@@ -20,3 +20,5 @@
 [8. Introduction to Tuples](https://mega.nz/folder/uIVC3J7C#zzJPO7QuS8djmvbll6R9gg)
 
 [9. Introduction to Dictionaries](https://mega.nz/folder/TR8nDbAb#PB0-LIEN344Y3iKRGD3boQ)
+
+[10. Introduction to Sets](https://mega.nz/folder/CB1iATRJ#HQjvmZK6dG_tHOJfz-Q6Ow)

@@ -18,3 +18,5 @@
 [7. Introduction to Lists](https://mega.nz/folder/OYUTzCJY#Uh2iC1RL2V5EtFiJSi6raQ)
 
 [8. Introduction to Tuples](https://mega.nz/folder/uIVC3J7C#zzJPO7QuS8djmvbll6R9gg)
+
+[9. Introduction to Dictionaries](https://mega.nz/folder/TR8nDbAb#PB0-LIEN344Y3iKRGD3boQ)

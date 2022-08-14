@@ -26,3 +26,5 @@
 [11. Additional Data Types](https://mega.nz/folder/3JV0zL7K#Y3-NdS37sUcMkQNIfUAxoQ)
 
 [12. Comparison and Logical Operators](https://mega.nz/folder/7RVRVagC#XVYp9lgtquLLPqCZj7JC3w)
+
+[13. Conditional Statements, Decision Making](https://mega.nz/folder/mItVhDwA#z1P4ZfiUdiCemJgB46pmSQ)

@@ -24,3 +24,5 @@
 [10. Introduction to Sets](https://mega.nz/folder/CB1iATRJ#HQjvmZK6dG_tHOJfz-Q6Ow)
 
 [11. Additional Data Types](https://mega.nz/folder/3JV0zL7K#Y3-NdS37sUcMkQNIfUAxoQ)
+
+[12. Comparison and Logical Operators](https://mega.nz/folder/7RVRVagC#XVYp9lgtquLLPqCZj7JC3w)

@@ -22,3 +22,5 @@
 [9. Introduction to Dictionaries](https://mega.nz/folder/TR8nDbAb#PB0-LIEN344Y3iKRGD3boQ)
 
 [10. Introduction to Sets](https://mega.nz/folder/CB1iATRJ#HQjvmZK6dG_tHOJfz-Q6Ow)
+
+[11. Additional Data Types](https://mega.nz/folder/3JV0zL7K#Y3-NdS37sUcMkQNIfUAxoQ)

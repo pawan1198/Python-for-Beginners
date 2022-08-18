@@ -1,5 +1,7 @@
-## Cheatsheet
+## Cheatsheets
 ![](https://github.com/pawan1198/Python-for-Beginners/blob/master/293472252_3387964471424406_4371782732999477943_n.jpg)
+
+![](https://github.com/pawan1198/Python-for-Beginners/blob/master/293127196_3387964564757730_3218644346370267268_n.jpg)
 
 # Python-for-Beginners
 

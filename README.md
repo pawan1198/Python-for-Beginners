@@ -28,3 +28,5 @@
 [12. Comparison and Logical Operators](https://mega.nz/folder/7RVRVagC#XVYp9lgtquLLPqCZj7JC3w)
 
 [13. Conditional Statements, Decision Making](https://mega.nz/folder/mItVhDwA#z1P4ZfiUdiCemJgB46pmSQ)
+
+[14. Looping Constructs](https://mega.nz/folder/TUcEFIrT#2eT9CXnDnpWePvNSE2mHYQ)

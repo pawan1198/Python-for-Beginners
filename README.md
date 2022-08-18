@@ -32,3 +32,5 @@
 [14. Looping Constructs](https://mega.nz/folder/TUcEFIrT#2eT9CXnDnpWePvNSE2mHYQ)
 
 [15. Some Useful Functions and Operators](https://mega.nz/folder/bBECECQS#6U9cx0fKqdv6mwFvF1UcuQ)
+
+[16. random Library](https://mega.nz/folder/6Z0CBJoR#ZJQd2UUpSl9---g-D-fS1g)

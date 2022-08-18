@@ -30,3 +30,5 @@
 [13. Conditional Statements, Decision Making](https://mega.nz/folder/mItVhDwA#z1P4ZfiUdiCemJgB46pmSQ)
 
 [14. Looping Constructs](https://mega.nz/folder/TUcEFIrT#2eT9CXnDnpWePvNSE2mHYQ)
+
+[15. Some Useful Functions and Operators](https://mega.nz/folder/bBECECQS#6U9cx0fKqdv6mwFvF1UcuQ)

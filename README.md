@@ -40,3 +40,5 @@
 [17. List Comprehensions](https://mega.nz/folder/mI9wyQqR#SChPKizpLEsW7xR1FcFPUQ)
 
 [18. Introduction to Functions](https://mega.nz/folder/GVdRUYaZ#tXfzZ_vMx3Q7id6ZnJReWg)
+
+[19. Object Oriented Programming](https://mega.nz/folder/LYkTiYZI#qgxFA0-PiGnOGyfSaxF6oQ)

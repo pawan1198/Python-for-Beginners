@@ -38,3 +38,5 @@
 [16. random Library](https://mega.nz/folder/6Z0CBJoR#ZJQd2UUpSl9---g-D-fS1g)
 
 [17. List Comprehensions](https://mega.nz/folder/mI9wyQqR#SChPKizpLEsW7xR1FcFPUQ)
+
+[18. Introduction to Functions](https://mega.nz/folder/GVdRUYaZ#tXfzZ_vMx3Q7id6ZnJReWg)

@@ -44,3 +44,5 @@
 [19. Object Oriented Programming](https://mega.nz/folder/LYkTiYZI#qgxFA0-PiGnOGyfSaxF6oQ)
 
 [20. File Handling](https://mega.nz/folder/yFs2iCAb#Ve5S2DjeVakMp-cyRsDk9Q)
+
+[21. Exception Handling](https://mega.nz/folder/HAUzkAqS#pP01NeT0mp-O07DizMkuog)

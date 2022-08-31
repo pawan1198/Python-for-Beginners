@@ -50,3 +50,5 @@
 [22. Modules and Packages](https://mega.nz/folder/HdV3HRQa#xJ3Qs9wF53AlB3Vl9w-cgQ)
 
 [23. Regular Expressions](https://mega.nz/folder/HU1zQBaZ#ezFYATwRbgj4rbt3BaUsNQ)
+
+[24. PROJECT 1 - Hangman](https://mega.nz/folder/ydNwDDoL#88UFODeqhsGbWihU0FdSRw)

@@ -54,3 +54,5 @@
 [24. PROJECT 1 - Hangman](https://mega.nz/folder/ydNwDDoL#88UFODeqhsGbWihU0FdSRw)
 
 [25. PROJECT 2 - Random Password Generator](https://mega.nz/folder/7E8G2YaA#xqzPd_ziPrbTreoHU3h5jQ)
+
+[26. PROJECT 3 - Client Server Chat System using Sockets](https://mega.nz/folder/LYknGYqa#fQ2LSkoHe6VPVqWcYNbMoQ)
